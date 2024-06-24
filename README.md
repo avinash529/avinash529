@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... non
 - 💞️ I’m looking to collaborate on ...non
 - 💻 Working on MTS Kochi
-- 📫 How to reach me ... https://www.instagram.com/raber_kid/
+- 📫 How to reach me ... (https://www.instagram.com/_.aviz_._/)
 
 <!---
 avinash529/avinash529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
