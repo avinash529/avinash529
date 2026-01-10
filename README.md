@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... non
 - 💞️ I’m looking to collaborate on ...non
-- 💻 Working on MTS Kochi
+- 💻 Working on Avodha
 - 📫 How to reach me ... (https://www.instagram.com/_.aviz_._/)
 
 <!---
