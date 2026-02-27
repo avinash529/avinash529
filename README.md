@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... non
 - 💞️ I’m looking to collaborate on ...non
 - 💻 Working on Avodha
+- 🌐 Portfolio ... https://avinash-portfolio.duckdns.org/
 - 📫 How to reach me ... (https://www.instagram.com/_.aviz_._/)
 
 <!---
